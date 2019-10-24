@@ -26,3 +26,6 @@ git --no-pager log --pretty=tformat:"%s" | grep "^Fix(" | sed "s/^Fix(//g" | sed
 #done
 #echo </body>
 #echo </html>
+
+#Para ejecutar en la consola   ->  .\script.sh
+#script.sh > script.html
